@@ -1,5 +1,15 @@
 # MCP Inspector
 
+
+## This fork supports the new Streamable HTTP Transport
+
+It integrates the PR from https://github.com/modelcontextprotocol/inspector/pull/294 (credits to @shivdeepak)
+
+Discard this fork once it has been shipped
+
+![MCP Inspector Screenshot](/public/streamable2.jpg)
+
+
 The MCP inspector is a developer tool for testing and debugging MCP servers.
 
 ![MCP Inspector Screenshot](https://raw.githubusercontent.com/modelcontextprotocol/inspector/main/mcp-inspector.png)
